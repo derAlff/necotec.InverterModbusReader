@@ -1,0 +1,15 @@
+CHANGES 11th March 2019:
+- Solaredge Inverters are Supported.
+  
+  TODO:
+  - At the moment, only one *.csv file is generated. Generate every day a new *.csv file.
+  - Implement Huawei inverters.
+  - The path to stored data is hardcodes. Change it to softcoded.
+
+
+
+TODO (06th March 2019):
+- At the moment, only one *.csv file is generated. Generate every day a new *.csv file.
+- Implement Huawei inverters.
+- Implement SolarEdge inverters.
+- The path to stored data is hardcodes. Change it to softcoded.
